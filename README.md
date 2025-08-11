@@ -56,7 +56,7 @@ cd Quiz-app
 
 🌐 Live Demo
 
-🔗 Click here to view the Quiz App(https://Niki415-cpu.github.io/Quiz-app/)
+🔗 Click here to view the Quiz App(https://Niki415-cpu.github.io/Quiz-app)
 
 
 
