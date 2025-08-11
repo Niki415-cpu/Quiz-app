@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Quiz App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1 id="title">General Knowledge — Quick Quiz</h1>
+        <div class="meta">10 questions — multiple choice</div>
+      </div>
+      <div class="scorebox">
+        <div class="small">Time left: <strong id="timer">10:00</strong></div>
+        <div class="small">Score: <strong id="score">0</strong></div>
+      </div>
+    </header>
+
+    <div class="card">
+      <div class="progress"><i id="progressFill"></i></div>
+      <div class="question" id="question">Loading question...</div>
+      <div class="options" id="options"></div>
+
+      <div class="controls">
+        <div>
+          <button id="nextBtn" class="secondary" disabled>Next</button>
+          <button id="revealBtn" class="secondary">Reveal answer</button>
+        </div>
+        <div>
+          <button id="restartBtn">Restart</button>
+        </div>
+      </div>
+
+      <footer>
+        <div class="small">Question <strong id="qIndex">0</strong> / <strong id="qTotal">0</strong></div>
+        <div class="small">High score: <strong id="highScore">0</strong></div>
+      </footer>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
