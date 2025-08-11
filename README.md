@@ -1,16 +1,8 @@
-Got it ✅
-Here’s your updated README with a Live Demo link and Author section.
-
-
----
-
 🎯 Quiz App
 
 A responsive and interactive Quiz Application built using HTML, CSS, and JavaScript.
 It allows users to test their knowledge by answering multiple-choice questions, view scores instantly, and restart the quiz.
 
-
----
 
 📌 Features
 
@@ -26,8 +18,6 @@ Lightweight and fast (no external libraries required)
 
 
 
----
-
 🛠 Technologies Used
 
 HTML5 – Structure and content of the app
@@ -38,8 +28,6 @@ JavaScript (Vanilla) – Quiz logic, score tracking, and interactivity
 
 
 
----
-
 📂 Project Structure
 
 quiz-app/
@@ -49,7 +37,6 @@ quiz-app/
 │── README.md       # Project documentation
 
 
----
 
 🚀 How to Run
 
@@ -67,12 +54,9 @@ cd Quiz-app
 
 
 
-
----
-
 🌐 Live Demo
 
-🔗 Click here to view the Quiz App
+🔗 Click here to view the Quiz App(https://Niki415-cpu.github.io/Quiz-app/)
 
 
 
